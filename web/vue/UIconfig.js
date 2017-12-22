@@ -12,7 +12,7 @@ const CONFIG = {
   },
   ui: {
     ssl: false,
-    host: '0.0.0.0',
+    host: 'node4.islock.com',
     port: 4000,
     path: '/'
   },
