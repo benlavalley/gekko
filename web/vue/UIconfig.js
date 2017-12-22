@@ -11,9 +11,9 @@ const CONFIG = {
     timeout: 120000 // 2 minutes
   },
   ui: {
-    ssl: false,
-    host: 'node4.islock.com',
-    port: 4000,
+    ssl: true,
+    host: 'chappie.cryptoinvestingllc.com',
+    port: 443,
     path: '/'
   },
   adapter: 'sqlite'
