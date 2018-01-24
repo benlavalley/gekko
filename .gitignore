@@ -46,3 +46,5 @@ TMP_*
 .idea
 volumes
 SECRET-api-keys.json
+config.js
+config-*.js
