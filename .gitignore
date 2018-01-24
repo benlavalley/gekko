@@ -47,5 +47,3 @@ volumes
 config.js
 config-*.js
 SECRET-api-keys.json
-./web/vue/UIconfig.js
-/web/vue/UIconfig.js
